@@ -1,5 +1,8 @@
 # War-Torn-Economies-Rebuilding-and-Recovery
 Article analysing the Economic Impact of Refugee Return and Resettlement. • Analysis of refugee movements across Syria, Lebanon and Jordan, and their impact on wages and residential rents.
+
+
+
 Better conditions in the country of origin increase refugee returns unambiguously. Better security, including both the absence of conflict and greater protection of human and property rights, and better living conditions increases refugee returns. This effect, however, can be complex. For instance, better security can affect people’s choices directly by reducing risk and indirectly by increasing the effectiveness of reconstruction activities. More specifically, the main question is whether it is in the economic self-interest of host countries to return forcibly displaced persons. In addressing the question, four ancillary issues are to be addressed: (i) the macroeconomic impact of refugees and of their return; (ii) the labor market impact of refugees and of their return, (iii) the fiscal impact of refugees and of their return; and (iv) how return policy should be formulated and executed.
 
 Policymakers and citizens in destination countries usually believe that immigration can become an economic burden, as it is feared to lead to loss of jobs, heavy burden on public services, social tension and increased criminality. The fear of increased unemployment comes from the classic supply and demand model in economics, wherein an increase in the supply of labour, while the demand for labour remains unchanged, leads to a fall in prices or in this case, decrease in wages
